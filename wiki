@@ -6,4 +6,9 @@ José Miguel Castellano Sierra
 Los ficheros son los siguientes:
 
 divisas.py Código python que extrae los datos y genera el csv.
+
 tipocambio.csv Fichero generado por el script anterior.
+
+Enlace zenodo: https://zenodo.org/record/3751778
+
+Carpeta img: Imágenes extraidas de los paises en el script divisas.py
