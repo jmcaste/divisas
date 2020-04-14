@@ -1,0 +1,9 @@
+Los integrantes del grupo son:
+
+Pedro Jesús de Barrios Roncero
+José Miguel Castellano Sierra
+
+Los ficheros son los siguientes:
+
+divisas.py Código python que extrae los datos y genera el csv.
+tipocambio.csv Fichero generado por el script anterior.
